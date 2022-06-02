@@ -49,7 +49,7 @@
 | 10 -  | 24. Juni |
 | 11 -  | 01. Juli |
 | 12 -  | 08. Juli |
-| 13 -  | 15. Juli |
+| 13 - Bonuspunkteblatt  | 15. Juli |
 | Probeklausur  | 22. Juli |
 | **Klausur**  | 27. Juli (12-14 Uhr) |
 
