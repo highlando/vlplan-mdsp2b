@@ -43,9 +43,9 @@
 | 04 - Diagonalisierbarkeit | 13. Mai |
 | 05 - Trigonalisierbarkeit | 20. Mai |
 | 06 - Skalarprodukt/Vektorprodukt | 27. Mai |
-| 07 -  | 03. Juni |
-| 08 -  | 10. Juni |
-| 09 -  | 17. Juni |
+| 07 - Vektorprodukt und Bilinearformen | 03. Juni |
+| 08 - Orthogonalit&auml;t | 10. Juni |
+| 09 - Orthogonalisierung und Normen | 17. Juni |
 | 10 -  | 24. Juni |
 | 11 -  | 01. Juli |
 | 12 -  | 08. Juli |
